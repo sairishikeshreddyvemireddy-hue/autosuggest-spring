@@ -1,6 +1,5 @@
-index.css: 
 
-```body{
+body{
     margin: 0px;
 }
 
@@ -20,4 +19,4 @@ h1 {
     padding: 20px;
     text-decoration: none;
     color: black;
-}`
+}
