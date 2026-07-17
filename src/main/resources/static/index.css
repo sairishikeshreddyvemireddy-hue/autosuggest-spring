@@ -11,12 +11,12 @@ h1 {
     border-style: solid;
     border-width: 1px;
     border-color: gray;
-    padding: 40px;
+    padding: 20px;
     text-align: center;
 }
 
 .navbar a{
-    padding: 20px;
+    padding: 80px;
     text-decoration: none;
     color:red;
 }
