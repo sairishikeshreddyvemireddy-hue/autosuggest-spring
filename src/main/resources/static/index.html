@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
-    <button>subscribe</button>
     <div class="navbar">
         <a href="https://www.google.com/">HOME</a>
         <a href="https://github.com/">GITHUB</a>
@@ -15,14 +14,14 @@
         <a href="https://autosuggest.com/">AutoSuggest</a>
     </div>
     <div class="card">
-         <img src="mahesh.jpg" alt="Avatar" style="width:100%">  
+         <img id="userImage" src="mahesh.jpg" alt="Avatar" style="width:100%">  
          <h3 id="name">mahesh babu</h3>
          <p id="email">maheshbabu@vnrvjiet.in</p>
          <p id="gender">Male</p>
          <button id="btn">Get Random User</button>
          <br>
          <br>
-         <button id="btn1">toggle user
+         <button onclick="toggleUser()">toggleuser</button>
     </div>
 
     <script src="index.js"></script>
