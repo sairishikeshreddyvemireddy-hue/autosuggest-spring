@@ -22,4 +22,5 @@ h1 {
 }
 .navbar a:hover{
     color: blue;
+    background-color: rgb(129, 53, 53);
 }
